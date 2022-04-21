@@ -1,10 +1,6 @@
 # deploy
 
-http://getblocktest.surge.sh/ 
-
-# getblock
-
-This template should help get you started developing with Vue 3 in Vite.
+http://tastethisbeer.surge.sh/
 
 ## Project Setup
 
