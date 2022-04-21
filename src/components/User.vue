@@ -6,7 +6,7 @@
       alt="Photo"
       @error="$event.target.src=`https://robohash.org/estliberovoluptatem.png?size=300x300&set=set1`" />
 <!--  часто приходят битые ссылки на img с 500 кодом, с помощье слушателя onError меняю src-->
-    />
+
     <div class="flex flex-col ">
     <div class="flex justify-between flex-wrap items-center xs:justify-center">
         <span class="font-bold text-2xl xs:text-xl pr-1  ">{{
