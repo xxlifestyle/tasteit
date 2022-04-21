@@ -4,7 +4,7 @@
       class=" rounded-md mb-2 bg-center bg-[url('https://www.restoclub.ru/uploads/place_thumbnail_big/2/c/9/f/2c9fab279aac7b2104e07ac0007587a1.jpg')]"
       :src="userData.avatar"
       alt="Photo"
-      @error="$event.target.src=`https://robohash.org/estliberovoluptatem.png?size=300x300&set=set1`" /> ddwwdwd
+      @error="$event.target.src=`https://robohash.org/estliberovoluptatem.png?size=300x300&set=set1`" />
 <!--  часто приходят битые ссылки на img с 500 кодом, с помощье слушателя onError меняю src-->
     />
     <div class="flex flex-col ">
